@@ -1,5 +1,6 @@
 /**
  * The javascript code for the color guess game
+ * credits to: Mohamed Ali (imMoe)
  */
 
 let colors
